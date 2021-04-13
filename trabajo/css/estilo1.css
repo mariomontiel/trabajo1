@@ -1,0 +1,98 @@
+body{
+    background-image: url("../img/fondoheroe.jpg");
+    background-image: no-repeat;
+    background-image: fixed;
+    background-image: center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+     background-attachment: fixed;
+    position: relative;
+    background-position: 100% 100%;
+}
+.titulo{
+    text-align: center;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    left: 0%;
+   
+
+}
+.imagentitulo{
+    width: 100%;
+    height: 50px;
+    background-color:white;
+    border-top:green solid;
+    border-bottom:green solid;
+    
+}
+.title{
+    color:green;
+    padding: 5px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 28px;
+   
+
+
+}
+
+
+.deku{
+    padding: 40px 0;
+    width: 80%;
+    max-width: 1200px;
+    margin: auto;
+    overflow: hidden;
+}
+td{
+    color:black;
+}
+.shoto{
+    padding: 40px 0;
+    width: 80%;
+    max-width: 1200px;
+    margin: auto;
+    overflow: hidden;
+}
+.bakugo{
+    padding: 40px 0;
+    width: 80%;
+    max-width: 1200px;
+    margin: auto;
+    overflow: hidden;
+}
+.uraraka{
+    padding: 40px 0;
+    width: 80%;
+    max-width: 1200px;
+    margin: auto;
+    overflow: hidden;
+}
+.momo{
+    padding: 40px 0;
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    overflow: hidden;
+}
+.kirishima{
+    padding: 40px 0;
+    width: 80%;
+    max-width: 1200px;
+    margin: auto;
+    overflow: hidden;
+}
+
+
+td::first-line{
+    color:blue;
+    
+}
+
+
+
